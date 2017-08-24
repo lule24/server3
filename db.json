@@ -1,0 +1,129 @@
+{
+"email": [
+  {
+    "id": 1,
+    "name":"Lazar Prodanovic",
+    "subject": "Laboratorijske vezbe",
+    "content": "U kojoj ucionici imamo laboratorijske vezbe?"
+  
+  },
+  {
+    "id": 2,
+    "name":"Stefan Dacevic",
+    "subject": "Rostilj",
+    "content": "Organizujem rostilj kod mene na vikendici"
+  
+  },
+  {
+  
+    "id": 3,
+    "name":"Lazar Prodanovic",
+    "subject": "Zurka kod mene",
+    "content": "Zovem te na zurku kod mene sutra"
+  
+  },
+  {
+  
+    "id": 4,
+    "name":"Dejan Ubiparip",
+    "subject": "Raspored za ispit",
+    "content": "Posalji mi raspored sedenja za ispit, ne mogu da udjem na svoj nalog"
+  
+  },
+  {
+  
+    "id": 5,
+    "name":"Obrad Ninkov",
+    "subject": "Slava",
+    "content": "Slavim slavu sledece nedelje pa dodji"
+  
+  },
+  {
+  
+    "id": 6,
+    "name":"Lazar Prodanovic",
+    "subject": "1.maj",
+    "content": "Jel si organizovao nesto za 1. maj? Mogli bi ici zajedno negde"
+  
+  },
+  {
+  
+    "id": 7,
+    "name":"Stefan Dacevic",
+    "subject": "Strand",
+    "content": "Idemo na strand?"
+  
+  },
+  
+  {
+  
+    "id": 8,
+    "name":"Lazar Prodanovic",
+    "subject": "Ispitni zadatak",
+    "content": "Posalji mi pitanja koja si imao na ispitu prosle nedelje"
+  
+  },
+  
+  {
+  
+    "id": 9,
+    "name":"Dejan Ubiparip",
+    "subject": "Projektni zadatak",
+    "content": "Treba mi pomoc oko namestanja projekta"
+  
+  },
+  
+  {
+  
+    "id": 10,
+    "name":"Stefan Bratic",
+    "subject": "Oprostajna zurka",
+    "content": "Idemo na pice sledece nedelje svi zajedno"
+  
+  },
+  
+  {
+  
+    "id": 11,
+    "name":"Obrad Ninkov",
+    "subject": "Poklon za rodjendan",
+    "content": "Moramo da se organizujemo za Stefanov rodjendan"
+  
+  },
+  
+
+  {
+  
+    "id": 12,
+    "name":"Lazar Prodanovic",
+    "subject": "Dogovor za more",
+    "content": "Sledece nedelje treba da se dogovorimo za more"
+  
+  },
+  
+  {
+  
+    "id": 13,
+    "name":"Stefan Bratic",
+    "subject": "Bec",
+    "content": "Pozivam te da dodjes kod mene na par dana. Zvao sam i ostale"
+  
+  }
+
+
+],
+"users":  [
+  
+   {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+
+]
+}
